@@ -31,7 +31,7 @@ export default function BorderButtons(country, bg, txt) {
                     return e.alpha3Code === border;
                 });
                 return <Link to={`/details/${border}`} key={border}>
-                  <button className="border-btn" style={{background: bg, color: txt}}>
+                  <button className="border-btn" style={{background: bg, color: txt, cursor: "pointer"}}>
                     {c[0].name}
                   </button>
                 </Link>
