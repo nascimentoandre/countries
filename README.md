@@ -1,3 +1,9 @@
+# Countries
+
+![Preview-Screens](https://github.com/nascimentoandre/countries/blob/master/prints/1.png)
+
+For more print screens, check the [prints](https://github.com/nascimentoandre/countries/tree/master/prints) directory.
+
 # Description
 
 This is a React web app that was built using data from the [REST Countries API](https://restcountries.eu/). It shows information such as population, capital, currencies and languages of every country available in their database. This is a challenge proposed by [Front End Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca). Several concepts were required to solve this challenge, such as containers (to allow child components to easily access the data from the API and to create light and dark themes). 
